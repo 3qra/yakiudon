@@ -1,0 +1,13 @@
+{
+  "name": "yakiudon",
+  "main": "index.js",
+  "compatibility_date": "2025-09-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "yakiudon-db",
+      "database_id": "24019264-8711-414e-b2d4-74b8f2b641f9"
+    }
+  ],
+  "observability": { "enabled": true }
+}
